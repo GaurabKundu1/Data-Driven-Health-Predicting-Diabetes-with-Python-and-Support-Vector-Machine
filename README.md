@@ -39,6 +39,18 @@ To use the predictive system, provide a new set of health-related features (Preg
 input_data = (5, 166, 72, 19, 175, 25.8, 0.587, 51)
 # Follow the steps in the documentation to make predictions.
 ```
+## Get Started
+
+In a Terminal Copy This:
+
+```bash
+git clone https://github.com/GaurabKundu1/Data-Driven-Health-Predicting-Diabetes-with-Python-and-Support-Vector-Machine.git
+```
+Now Run:
+
+```bash
+pip install requirements.txt
+```
 
 ## Conclusion
 This project demonstrates the use of a Support Vector Machine to predict diabetes based on health-related features. The provided documentation guides users through the project's workflow, from data analysis to model evaluation and making predictions.
